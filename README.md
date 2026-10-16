@@ -25,7 +25,7 @@ Independent builder in Seoul, building AI products and local assistants. I would
 | Project | Focus |
 | --- | --- |
 | **[Alden](https://github.com/twoimo/alden)** | A local AI assistant for macOS, with on-device MLX models, local knowledge retrieval, and KakaoTalk integration. |
-| **[Tzudong Map](https://tzudong.app)** | A live map-first product for exploring places. |
+| **[Tzudong&nbsp;Map](https://tzudong.app)** | A live map-first product for exploring places. |
 
 ## Stack & tools
 
