@@ -27,18 +27,18 @@
 <table width="100%" cellpadding="12" cellspacing="0">
   <thead>
     <tr>
-      <th width="260" align="center" valign="middle">Project</th>
-      <th width="780" align="center" valign="middle">Focus</th>
+      <th width="260" align="left" valign="middle">Project</th>
+      <th width="780" align="left" valign="middle">Focus</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
-      <td align="center" valign="middle">A live map-first product for exploring places.</td>
+      <td align="left" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
+      <td align="left" valign="middle">A live map-first product for exploring places.</td>
     </tr>
     <tr>
-      <td align="center" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
-      <td align="center" valign="middle">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
+      <td align="left" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
+      <td align="left" valign="middle">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
     </tr>
   </tbody>
 </table>
