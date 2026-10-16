@@ -27,8 +27,8 @@
 <table width="100%" cellpadding="12" cellspacing="0">
   <thead>
     <tr>
-      <th width="25%" align="center" valign="middle">Project</th>
-      <th width="75%" align="center" valign="middle">Focus</th>
+      <th width="260" align="center" valign="middle">Project</th>
+      <th width="780" align="center" valign="middle">Focus</th>
     </tr>
   </thead>
   <tbody>
