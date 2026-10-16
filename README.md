@@ -19,7 +19,7 @@
 ## About me
 
 - Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)** — a live map-first product.
-- Building **local agents on macOS**, including **[openkakao-bot](https://github.com/twoimo/openkakao-bot)**, an on-device KakaoTalk agent.
+- Building **[Alden](https://github.com/twoimo/alden)** — an on-device macOS AI assistant with local knowledge and KakaoTalk integration.
 - I would rather show a running system than a pitch. Philosophy: **Opinions proven by shipped code.**
 
 ## Projects
