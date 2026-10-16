@@ -18,14 +18,30 @@
 
 ## About me
 
-Independent builder in Seoul, building AI products and local assistants. I would rather show a running system than a pitch. **Opinions proven by shipped code.**
+- Independent builder in Seoul. Shipping **[Tzudong Map](https://tzudong.app)** — a live map-first product.
+- Building **local agents on macOS**, including **[openkakao-bot](https://github.com/twoimo/openkakao-bot)**, an on-device KakaoTalk agent.
+- I would rather show a running system than a pitch. Philosophy: **Opinions proven by shipped code.**
 
 ## Projects
 
-| Project | Focus |
-| --- | --- |
-| **[Alden](https://github.com/twoimo/alden)** | A local AI assistant for macOS, with on-device MLX models, local knowledge retrieval, and KakaoTalk integration. |
-| **[Tzudong&nbsp;Map](https://tzudong.app)** | A live map-first product for exploring places. |
+<table width="100%" cellpadding="12" cellspacing="0">
+  <thead>
+    <tr>
+      <th width="25%" align="center" valign="middle">Project</th>
+      <th width="75%" align="center" valign="middle">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://tzudong.app">Tzudong&nbsp;Map</a></strong></td>
+      <td align="center" valign="middle">A live map-first product for exploring places.</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle"><strong><a href="https://github.com/twoimo/alden">Alden</a></strong></td>
+      <td align="center" valign="middle">On-device macOS AI assistant with MLX, local knowledge, and KakaoTalk.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Stack & tools
 
