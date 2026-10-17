@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=AI%20products.%20Local%20agents.&descAlignY=58&descSize=18" alt="TWOIMO — AI products. Local agents." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:4F46E5&height=200&section=header&text=TWOIMO&fontSize=70&fontColor=E0F2FE&animation=fadeIn&fontAlignY=35&desc=Opinions%20proven%20by%20shipped%20code.&descAlignY=58&descSize=18" alt="TWOIMO — Opinions proven by shipped code." />
 
 <a href="https://git.io/typing-svg">
-  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+products.+Local+agents.;Shipping+Tzudong+Map;Building+Alden;Opinions+proven+by+shipped+code.;Build.+Measure.+Ship." alt="AI products. Local agents. Shipping Tzudong Map. Building Alden." />
+  <img width="760" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Opinions+proven+by+shipped+code.;Shipping+Tzudong+Map;Building+Alden;On-device+macOS+AI+assistant;Build.+Measure.+Ship." alt="Opinions proven by shipped code. Shipping Tzudong Map. Building Alden." />
 </a>
 
 <br/>
